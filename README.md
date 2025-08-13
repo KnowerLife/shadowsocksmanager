@@ -34,15 +34,7 @@
    git clone https://github.com/KnowerLife/ShadowsocksManager.git
    ```
 
-2. **Откройте проект в Xcode**:
-   - Убедитесь, что у вас установлена последняя версия Xcode.
-   - Откройте файл `ShadowsocksManager.xcodeproj`.
-
-3. **Соберите и запустите проект**:
-   - Выберите цель `ShadowSocksManagerApp` и устройство (например, ваш Mac).
-   - Нажмите `Build and Run` в Xcode.
-
-4. **Установка Shadowsocks (если требуется)**:
+2. **Установка Shadowsocks (если требуется)**:
    - Если Shadowsocks (`ss-local`) не установлен, приложение автоматически предложит установить его через Homebrew.
    - Для ручной установки выполните:
      ```bash
