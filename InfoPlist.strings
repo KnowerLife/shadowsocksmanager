@@ -1,5 +1,0 @@
-/* InfoPlist.strings (English) */
-"NSCameraUsageDescription" = "ShadowSocksManager uses the camera to scan QR codes for importing server configurations.";
-
-/* InfoPlist.strings (Russian) */
-"NSCameraUsageDescription" = "ShadowSocksManager использует камеру для сканирования QR-кодов конфигураций серверов.";
